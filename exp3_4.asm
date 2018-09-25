@@ -54,7 +54,6 @@ count:
       int 21h
 Code ends
 End start
-                                          ;20161724_代欣月_实验3
 
 
 

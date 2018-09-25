@@ -41,4 +41,3 @@ main endp                                      ;end of main part of program
 prognam  ends                                  ;end of code segment
 ;***************************************
         end start                              ;end of assembly
-        						     ;20161724_代欣月_实验5

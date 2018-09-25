@@ -49,4 +49,3 @@ over: pop ax
 
 code ends
      end start
-                                  ;20161724_代欣月_实验4

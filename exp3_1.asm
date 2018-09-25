@@ -17,4 +17,3 @@ CYCLE:        IN           AL, 21H   ;从21H号端口输入8位数据到AL寄存
               RET
 MYCODE        ENDS
               END          GO
-                                        ;20161724_代欣月_实验3

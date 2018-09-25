@@ -36,5 +36,3 @@ start:mov ax,stack
 
 code  ends
 end  start
-                                        ;20161724_代欣月_实验3
-

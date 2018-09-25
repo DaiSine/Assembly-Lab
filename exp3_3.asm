@@ -17,4 +17,3 @@ loop1:add ax,bx
       int 21h
 Code ends
 End start
-							;20161724_代欣月_实验3
